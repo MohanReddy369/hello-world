@@ -1,1 +1,2 @@
-project title # hello-world website
+# hello-world website
+A simple website that displays "hello world"
